@@ -4,4 +4,4 @@
 
 A simple example to understand how GitHub works.
 
-### This end the README
+### This ends the README
